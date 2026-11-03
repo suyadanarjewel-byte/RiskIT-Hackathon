@@ -1,0 +1,20 @@
+TRADELINK MARKETPLACE - WHOLESALE ORDER CONFIRMATION
+Order ref: TL-48213
+Date: 14 October 2026
+
+Seller: Harrow & Pine Ceramics Ltd (Stoke-on-Trent, United Kingdom)
+Buyer: Lakeview Home Goods LLC, Portland, Oregon, USA
+
+Items: 40 x hand-glazed stoneware serving bowls @ USD 30.00
+Order total payable by buyer: USD 1,200.00
+Shipping: arranged and paid by seller
+
+Payment
+- Method: bank transfer (ACH) to TradeLink, then paid out to seller
+- Terms: Net 30 from date of shipment
+- TradeLink commission: 6.5% of order total
+- Payment processing fee: 2.9% of order total
+- Payout currency conversion (USD to GBP): 1.5% of order total
+
+Note from buyer email (16 Oct 2026):
+"As agreed on our call, we'll settle this one on net 45 terms as usual."

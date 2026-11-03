@@ -1,0 +1,5 @@
+{
+  "_note": "Scenario assumptions chosen by the seller. These are NOT document facts.",
+  "fx_rate": {"base": "USD", "quote": "GBP", "rate": "0.7500", "source": "seller planning rate"},
+  "fx_shocks_percent": ["-5", "-10", "-15"]
+}
